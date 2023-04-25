@@ -3,7 +3,8 @@
 }
 
 body {
-	background-color: #EEDFDE;
+	background-color: #2F4A60;
+	font-family: "Trebuchet MS", Tahoma, sans-serif;
 }
 
 .card {
@@ -11,10 +12,13 @@ body {
 	max-width: 300px;
 	margin: auto;
 	text-align: center;
+	background-color: #CAB29F;
+	border-radius: 20px
 }
 
 .title {
 	color: black;
+	padding: 25px 10px 10px 10px; 
 }
 
 .subTitle {
