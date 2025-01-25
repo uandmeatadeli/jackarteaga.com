@@ -1,8 +1,8 @@
 
 body {
 	min-height: 100%;
-	background-color: #7DA1BF;
-	font-family: "Trebuchet MS", Tahoma, sans-serif;
+	background-color: #fafafa;
+	font-family: 'Oswald';
 	display: flex;
 	flex-direction: column;
 }
